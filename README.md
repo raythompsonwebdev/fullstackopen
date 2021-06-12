@@ -2,6 +2,8 @@
 
 Web Development Fundementals Course
 
-Full Stack open 2021
+Part 1 (a) Introduction to React
+Part 1 (b) Javascript
+Part 1 (c) Components state, event handlers
+Part 1 (d) More complex state, debugging React Apps
 
-Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
