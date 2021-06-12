@@ -8,3 +8,5 @@
 - (b) Javascript
 - (c) Components state, event handlers
 - (d) More complex state, debugging React Apps
+
+npx create-react-app part1 --use-npm
