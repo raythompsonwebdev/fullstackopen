@@ -1,9 +1,10 @@
 # fullstackopen
 
-Web Development Fundementals Course
+## Web Development Fundementals Course
 
-Part 1 (a) Introduction to React
-Part 1 (b) Javascript
-Part 1 (c) Components state, event handlers
-Part 1 (d) More complex state, debugging React Apps
+### Part 1
 
+- (a) Introduction to React
+- (b) Javascript
+- (c) Components state, event handlers
+- (d) More complex state, debugging React Apps
